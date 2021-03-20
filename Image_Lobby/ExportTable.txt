@@ -1,0 +1,3 @@
+0 = Texture2D'LogoAll'
+1 = Texture2D'LogoAll_Thai'
+2 = Texture2D'ScreeningMark'

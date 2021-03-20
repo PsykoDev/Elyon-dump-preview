@@ -1,0 +1,4 @@
+0 = Class'Core.Package'
+1 = Class'Engine.Texture2D'
+2 = Package'Core'
+3 = Package'Engine'

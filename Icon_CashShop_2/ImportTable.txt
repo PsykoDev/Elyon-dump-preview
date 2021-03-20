@@ -1,0 +1,2 @@
+0 = Class'Engine.Texture2D'
+1 = Package'Engine'
